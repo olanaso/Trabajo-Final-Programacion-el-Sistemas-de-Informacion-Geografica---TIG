@@ -1,4 +1,4 @@
-# Examen de Final de Curso de Programación en Sistemas de Información Geográfico
+# Exámen de Final de Curso de Programación en Sistemas de Información Geográfico
 
 <img align="left" style="padding-right:20px;" src="https://web2.unfv.edu.pe/Sitio/images/logo_unfv.png" width=20% />
 <img align="right" style="padding-left:10px;" src="https://user-images.githubusercontent.com/16768318/73986811-764c6080-4936-11ea-9653-a3eacc47caed.png" width=10% />
