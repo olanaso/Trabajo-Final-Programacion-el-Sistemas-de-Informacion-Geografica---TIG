@@ -74,8 +74,6 @@ class MultiApp:
             Este es un trabajo grupal del curso de Programacion de Sistemas de Información Geografica 
             Integrantes
              - Erick Simón Escalante Olano
-             - Yeison Fernandez Areas
-             - Luis Chuyo Carrillo
-             - Raul Cardenas Garcia
+           
         """
         )
