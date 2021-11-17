@@ -4,9 +4,9 @@
 <img align="right" style="padding-left:10px;" src="https://user-images.githubusercontent.com/16768318/73986811-764c6080-4936-11ea-9653-a3eacc47caed.png" width=10% />
 <br>
 
-###**ALUMNO :** 
+**ALUMNO :** 
 Erick S. Escalante Olano<br>
-###**DOCENTE :** Mg. Risco Sence, Eber Rostaing
+**DOCENTE :** Mg. Risco Sence, Eber Rostaing
 Lima - 2021 
 
 # Parte 01
